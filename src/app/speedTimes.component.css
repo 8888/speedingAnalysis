@@ -1,0 +1,18 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.sip {
+    background-color: lightsalmon;
+    text-align: right;
+}
+
+.milesNeeded {
+    background-color: khaki;
+    text-align: right;
+}

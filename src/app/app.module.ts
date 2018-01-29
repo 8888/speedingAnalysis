@@ -3,9 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 
+import { SpeedTimesComponent } from './speedTimes.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SpeedTimesComponent
   ],
   imports: [
     BrowserModule
